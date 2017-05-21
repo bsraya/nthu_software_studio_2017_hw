@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "speciesName": "Bulbasaur",
+    "imgURL": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "speciesValue": {
+      "valArray": [
+        45,
+        49,
+        49,
+        65,
+        65,
+        45
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "speciesName": "pikachu",
+    "imgURL": "http://www.serebii.net/pokemongo/pokemon/025.png",
+    "speciesValue": {
+      "valArray": [
+        35,
+        55,
+        40,
+        50,
+        50,
+        90
+      ]
+    }
+  }
+]
