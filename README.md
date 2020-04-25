@@ -1,3 +1,5 @@
-# SoftwareStudio
+# Software Studio Assignments
+University: National Tsing Hua University
+Code : 10520CS241001
 
-This repository includes all of the labs that i have done.
+This repo includes all of the assignments I have done.
